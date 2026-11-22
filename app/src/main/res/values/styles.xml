@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.NetSleuth" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorAccent">#32C6A6</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#101827</item>
+        <item name="android:navigationBarColor">#101827</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
